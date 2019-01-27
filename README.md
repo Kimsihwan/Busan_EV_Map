@@ -4,5 +4,5 @@
 Program Stacks
 <ul>
   <li>SWIFT</li>
-  <li>공공데이터포털API()</li>
+  <li>공공데이터포털API(한국전력공사)</li>
 </ul>
